@@ -57,9 +57,9 @@ Initial Windows setup.
 
 <br />
 <br />
-A Layer 6 solution might be check if the certificates being used are correct in our browser. This might be due to internal company websites or self-signed certificates. 
+Welcome to Windows 11 VM. 
 
-![OSI Layer 6](https://github.com/user-attachments/assets/773d2a03-ca7a-42d6-a879-2ad86903e683)
+![Screenshot from 2024-11-30 17-07-41](https://github.com/user-attachments/assets/2b5fbc40-f5e0-4eaa-85f3-de0691387b9c)
 
 <br />
 <br />
